@@ -5,5 +5,5 @@
 
 2) Face Analysis and attributes,Emotional Analysis                                                                                             
 
-3)Face Authentication
+ 3)Face Authentication/Recognition  ( Go to face1.ipynb in month1 folder)
 
